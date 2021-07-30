@@ -3,7 +3,7 @@ I am working on a wearable device for the blind that uses ultrasonic waves to de
 
 | Engineer | School | Area of Interest | Grade |
 |:--:|:--:|:--:|:--:|
-| Rachit Bandaram | Dougherty Valley High School | Computer Engineering | Incoming Senior
+| Rachit B. | Dougherty Valley High School | Computer Engineering | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 
