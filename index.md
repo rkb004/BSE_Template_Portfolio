@@ -1,4 +1,4 @@
-# Third eye for the Blind/Title Goes Here
+# Third eye for the Blind
 I am working on a wearable device for the blind that uses ultrasonic waves to detect obstacles. The device notifies the user through vibrations and buzzers sounds.
 
 | Engineer | School | Area of Interest | Grade |
