@@ -1,5 +1,5 @@
 ﻿# Third Eye for the Blind
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+I am working on wearable technology for the blind that works by using ultrasonic sensors to detect obstacles. After detecting any obstacles, the device will notify the user through vibrations and buzzer sounds
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
