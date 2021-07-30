@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Rachit Bandaram | Dougherty Valley High | Computer Engineering | Incoming Senior
+| Rachit Bandaram | Dougherty Valley High School | Computer Engineering | Incoming Senior
 
 
   
