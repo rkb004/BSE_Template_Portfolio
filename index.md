@@ -1,9 +1,9 @@
-# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+# Third eye for the Blind/Title Goes Here
+I am working on a wearable device for the blind that uses ultrasonic waves to detect obstacles. The device notifies the user through vibrations and buzzers sounds.
 
 | Engineer | School | Area of Interest | Grade |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Rachit Bandaram | Dougherty Valley High School | Computer Engineering | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 
