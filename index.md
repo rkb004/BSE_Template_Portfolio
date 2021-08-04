@@ -22,7 +22,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 My first milestone was setting up the ultrasonic sensor and connecting it with the buzzer. As I moved my hand closer to the device, the buzzer started going off which is important because the device needs to help blind people become aware of their surroundings. 
 <img src="Images/carbon.png" width=500 align=center style="float:right; padding-right:10px">
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtube.com/watch?v=PRZMkeFm2GY "First Milestone"){:target="_blank" rel="noopener"}
+[![Rachit B's First Milestone Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628096709/video_to_markdown/images/youtube--PRZMkeFm2GY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=PRZMkeFm2GY "Rachit B's First Milestone Video")(https://youtube.com/watch?v=PRZMkeFm2GY "First Milestone"){:target="_blank" rel="noopener"}
 
 
 
