@@ -5,7 +5,7 @@ I am working on a wearable device for the blind that uses ultrasonic waves to de
 |:--:|:--:|:--:|:--:|
 | Rachit B. | Dougherty Valley High School | Computer Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image]()
 
 
 [![Final Milestone]()](){:target="_blank" rel="noopener"}
